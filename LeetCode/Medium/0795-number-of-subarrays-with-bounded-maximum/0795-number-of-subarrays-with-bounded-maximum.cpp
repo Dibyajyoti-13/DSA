@@ -1,21 +1,16 @@
 class Solution {
 public:
-    int calc(vector<int>& nums, int x){
-        int n = nums.size();
-        int count = 0;
-        int total = 0;
-
-        for(int i : nums){
-            if(i <= x){
-                count++;
-                total += count;
-            }
-            else count = 0;
-        }
-        return total;
-    }
-
     int numSubarrayBoundedMax(vector<int>& nums, int left, int right) {
-        return calc(nums, right) - calc(nums, left - 1);
+        int lastGreater = -1;
+        int lastInRange = -1;
+        int count = 0;
+
+        for (int i = 0; i < nums.size(); ++i) {
+            if (nums[i] > right) lastGreater = i;
+            if (nums[i] >= left) lastInRange = i;
+            
+            count += (lastInRange - lastGreater > 0) ? (lastInRange - lastGreater) : 0;
+        }
+        return count;
     }
 };
