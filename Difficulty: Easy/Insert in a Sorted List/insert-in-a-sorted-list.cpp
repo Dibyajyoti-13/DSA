@@ -18,13 +18,8 @@ class Solution {
     Node* sortedInsert(Node* head, int key) {
         // Code here
         Node* newNode = new Node(key);
-        //head
-        if(head == NULL){
-            head = newNode;
-            return head;
-        }
         
-        if(head->data > key){
+        if(!head || head->data > key){
             newNode->next = head;
             head = newNode;
             return head;
@@ -38,6 +33,5 @@ class Solution {
         newNode->next = curr->next;
         curr->next = newNode;
         return head;
-        
     }
 };
