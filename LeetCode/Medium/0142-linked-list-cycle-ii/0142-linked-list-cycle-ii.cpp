@@ -11,22 +11,20 @@ public:
     ListNode *detectCycle(ListNode *head) {
         ListNode* slow = head;
         ListNode* fast = head;
-        ListNode* intersection = NULL;
 
         while(fast && fast->next){
             slow = slow->next;
             fast = fast->next->next;
-            if(slow == fast){ intersection = slow; break;}
-        }
-        
-        slow = head;
 
-        while(slow && intersection){
-            if(slow == intersection) return slow;
-            slow = slow->next;
-            intersection = intersection->next;
+            if(slow == fast){
+                slow = head;
+                while(slow != fast){
+                    slow = slow->next;
+                    fast = fast->next;
+                }
+                return fast;
+            }
         }
-        
         return NULL;
     }
 };
