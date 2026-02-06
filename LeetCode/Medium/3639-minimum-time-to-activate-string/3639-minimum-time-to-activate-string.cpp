@@ -2,38 +2,33 @@ class Solution {
 public:
     int minTime(string s, vector<int>& order, int k) {
         int n = s.size();
-        long long total = 1LL * (n + 1) * n / 2;
-        if(total < k) return -1;
+        long long total = 1LL * n * (n + 1) / 2;
+        if (total < k) return -1;
 
-        auto can = [&](int t){
-            vector<bool> track(n, false);
-            for(int i = 0; i <= t; i++){
-                track[order[i]] = true;
-            }
+        long long invalid = total;
+        set<int> stars = {-1, n}; //boundaries
 
-            long long invalid = 0, count = 0;
-            for(int i = 0; i < n; i++){
-                if(!track[i]) count++;
-                else{
-                    invalid += count * (count + 1) / 2;
-                    count = 0;
-                }
-            }
-            invalid += count *(count + 1) / 2;
+        for (int t = 0; t < n; t++) {
+            int pos = order[t];
 
-            return total - invalid >= k;
-        };
+            auto it = stars.upper_bound(pos);
+            int right = *it;
+            int left = *prev(it);
 
-        int low = 0, high = n - 1, ans = -1;
-        while(low <= high){
-            int mid = (low + high)/2;
+            long long middle_lane = right - left - 1;
+            long long right_lane = pos - left - 1;
+            long long left_lane = right - pos - 1;
 
-            if(can(mid)){
-                ans = mid;
-                high = mid - 1;
-            }
-            else low = mid + 1;
+            invalid -= middle_lane * (middle_lane + 1) / 2;
+            invalid += right_lane * (right_lane + 1) / 2;
+            invalid += left_lane * (left_lane + 1) / 2;
+
+            stars.insert(pos);
+
+            if (total - invalid >= k)
+                return t;
         }
-        return ans;
+
+        return -1;
     }
 };
