@@ -14,38 +14,25 @@ class Solution {
   public:
     Node* segregate(Node* head) {
         // code here
-        Node zeroDummy(-1);
-        Node oneDummy(-1);
-        Node twoDummy(-1);
+        int count1 = 0, count2 = 0, count0 = 0;
+        Node* temp = head;
         
-        Node* zero = &zeroDummy;
-        Node* one = &oneDummy;
-        Node* two = &twoDummy;
-        
-        while(head){
-            if(head->data == 1){
-                one->next = head;
-                one = one->next;
-            }
-            else if(head->data == 2){
-                two->next = head;
-                two = two->next;
-            }
-            else{
-                zero->next = head;
-                zero = zero->next;
-            }
-            head = head->next;
+        while(temp){
+            if(temp->data == 0) count0++;
+            else if(temp->data == 1) count1++;
+            else count2++;
+            
+            temp = temp->next;
         }
         
-        if(oneDummy.next) zero->next = oneDummy.next;
-        else zero->next = twoDummy.next;
-        
-        if(twoDummy.next){
-            one->next = twoDummy.next;
-            two->next = nullptr;
-        }else one->next = nullptr;
-        
-        return zeroDummy.next;
+        temp = head;
+        while(temp){
+            if(count0 > 0){ temp->data = 0; count0--;}
+            else if(count1 > 0){ temp->data = 1; count1--;}
+            else if(count2 > 0){ temp->data = 2; count2--;}
+            
+            temp = temp->next;
+        }
+        return head;
     }
 };
