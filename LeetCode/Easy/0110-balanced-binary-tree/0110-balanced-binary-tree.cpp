@@ -9,21 +9,29 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+//go to each sub node / sub tree 
+//check for balance 
+//if true continue till root
+//else return false - end
+
 class Solution {
 public:
-    int height(TreeNode* root, int h) {
-        if (root == nullptr) return h - 1;
+    int check(TreeNode* root) {
+        if (!root) return 0;
 
-        return max(height(root->left, h + 1), height(root->right, h + 1));
+        int l = check(root->left);
+        if (l == -1) return -1;
+
+        int r = check(root->right);
+        if (r == -1) return -1;
+
+        if (abs(l - r) > 1) return -1;
+
+        return 1 + max(l, r);
     }
 
     bool isBalanced(TreeNode* root) {
-        if(root == nullptr) return true;
-        
-        int r_height = height(root->right, 1);
-        int l_height = height(root->left, 1);
-
-        if(abs(r_height - l_height) < 2) return true;
-        return false;
+        return check(root) != -1;
     }
 };
