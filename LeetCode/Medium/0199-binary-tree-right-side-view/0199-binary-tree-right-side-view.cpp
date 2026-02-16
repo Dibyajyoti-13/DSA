@@ -20,15 +20,13 @@ public:
         
         while(!q.empty()){
             int levelSize = q.size();
-            int last;
             for(int i = 0; i < levelSize; i++){
                 TreeNode* t = q.front();
                 q.pop();
                 if(t->left) q.push(t->left);
                 if(t->right) q.push(t->right);
-                last = t->val;
+                if(i == levelSize - 1) result.push_back(t->val);
             }
-            result.push_back(last);
         }
         return result;
     }
