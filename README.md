@@ -33,5 +33,10 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
