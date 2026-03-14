@@ -29,6 +29,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
