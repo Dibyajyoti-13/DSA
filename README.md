@@ -17,4 +17,9 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0670-maximum-swap](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0670-maximum-swap/) | Medium |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1007-minimum-domino-rotations-for-equal-row/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 <!---LeetCode Topics End-->
