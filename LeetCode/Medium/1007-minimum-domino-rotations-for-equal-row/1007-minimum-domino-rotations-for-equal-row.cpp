@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int check(int target, vector<int> tops, vector<int> bottoms){
+    int check(int target, vector<int>& tops, vector<int>& bottoms){
         int top_swap = 0, bottom_swap = 0;
         for(int i = 0; i < tops.size(); i++){
             if(tops[i] != target && bottoms[i] != target) return -1;
