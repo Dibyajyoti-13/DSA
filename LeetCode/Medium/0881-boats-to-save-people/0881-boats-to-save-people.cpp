@@ -7,11 +7,8 @@ public:
         int j = people.size() - 1;
 
         while(i <= j){
-            if(people[i] + people[j] > limit) j--;
-            else{
-                i++;
-                j--;
-            }
+            if(people[i] + people[j] <= limit) i++;
+            j--;
             boat++;
         }
         return boat;
