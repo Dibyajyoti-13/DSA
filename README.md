@@ -17,12 +17,14 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0670-maximum-swap](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0670-maximum-swap/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0881-boats-to-save-people](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 ## String
@@ -42,5 +44,18 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0881-boats-to-save-people](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 <!---LeetCode Topics End-->
