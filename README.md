@@ -27,6 +27,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0695-max-area-of-island](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0849-maximize-distance-to-closest-person](https://github.com/Dibyajyoti-13/LeetCode/tree/main/LeetCode/Medium/0849-maximize-distance-to-closest-person/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0891-sum-of-subsequence-widths](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0891-sum-of-subsequence-widths/) | Hard |
@@ -72,4 +73,20 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0838-push-dominoes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0838-push-dominoes/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
