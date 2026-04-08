@@ -33,6 +33,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0891-sum-of-subsequence-widths](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0891-sum-of-subsequence-widths/) | Hard |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 | [2293-min-max-game](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/2293-min-max-game/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [2293-min-max-game](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/2293-min-max-game/) | Easy |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +91,8 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 <!---LeetCode Topics End-->
