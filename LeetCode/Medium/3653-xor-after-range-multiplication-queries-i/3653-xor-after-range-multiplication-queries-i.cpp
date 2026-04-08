@@ -1,18 +1,23 @@
 class Solution {
 public:
     int xorAfterQueries(vector<int>& nums, vector<vector<int>>& queries) {
-        for(int i = 0; i < queries.size(); i++){
-            int idx = queries[i][0];
+        int n = nums.size();
+        vector<long long> mult(n, 1);
 
-            while(idx <= queries[i][1]){
-                nums[idx] = (nums[idx] * 1LL * queries[i][3]) % (1000000007);
-                idx += queries[i][2];
+        for(auto &q : queries){
+            int l = q[0], r = q[1], k = q[2], val = q[3];
+
+            for(int i = l; i <= r; i += k){
+                mult[i] = (mult[i] * val) % 1000000007;
             }
         }
-        int result = nums[0];
-        for(int i = 1; i < nums.size(); i++){
+
+        int result = 0;
+        for(int i = 0; i < n; i++){
+            nums[i] = (nums[i] * mult[i]) % 1000000007;
             result ^= nums[i];
         }
+
         return result;
     }
 };
