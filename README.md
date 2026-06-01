@@ -35,6 +35,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0849-maximize-distance-to-closest-person](https://github.com/Dibyajyoti-13/LeetCode/tree/main/LeetCode/Medium/0849-maximize-distance-to-closest-person/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0891-sum-of-subsequence-widths](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0891-sum-of-subsequence-widths/) | Hard |
+| [0977-squares-of-a-sorted-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2293-min-max-game](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/2293-min-max-game/) | Easy |
@@ -58,12 +59,14 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0345-reverse-vowels-of-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0838-push-dominoes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0838-push-dominoes/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0881-boats-to-save-people](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0891-sum-of-subsequence-widths](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0891-sum-of-subsequence-widths/) | Hard |
+| [0977-squares-of-a-sorted-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
