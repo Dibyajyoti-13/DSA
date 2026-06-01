@@ -8,6 +8,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
+| [0070-climbing-stairs](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0670-maximum-swap](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0670-maximum-swap/) | Medium |
 | [0754-reach-a-number](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0754-reach-a-number/) | Medium |
 | [0891-sum-of-subsequence-widths](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0891-sum-of-subsequence-widths/) | Hard |
@@ -95,6 +96,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0322-coin-change](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0838-push-dominoes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0838-push-dominoes/) | Medium |
@@ -137,4 +139,8 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
