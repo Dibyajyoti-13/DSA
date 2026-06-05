@@ -28,6 +28,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
+| [0046-permutations](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -167,6 +168,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0784-letter-case-permutation/) | Medium |
 <!---LeetCode Topics End-->
