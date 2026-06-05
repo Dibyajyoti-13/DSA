@@ -54,6 +54,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
+| [0784-letter-case-permutation](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0784-letter-case-permutation/) | Medium |
 | [0838-push-dominoes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0838-push-dominoes/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | ------- | ------- |
 | [0136-single-number](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0338-counting-bits](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
+| [0784-letter-case-permutation](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0784-letter-case-permutation/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +164,8 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0784-letter-case-permutation](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0784-letter-case-permutation/) | Medium |
 <!---LeetCode Topics End-->
