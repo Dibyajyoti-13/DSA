@@ -173,4 +173,12 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0046-permutations](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0784-letter-case-permutation/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
