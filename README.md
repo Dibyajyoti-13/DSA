@@ -28,6 +28,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0027-remove-element](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
@@ -68,6 +69,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0838-push-dominoes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0838-push-dominoes/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0845-longest-mountain-in-array/) | Medium |
