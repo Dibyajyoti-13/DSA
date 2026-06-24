@@ -40,6 +40,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0303-range-sum-query-immutable](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0695-max-area-of-island](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0845-longest-mountain-in-array/) | Medium |
