@@ -37,6 +37,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0136-single-number](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0200-number-of-islands](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0283-move-zeroes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -71,6 +72,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
+| [0283-move-zeroes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0838-push-dominoes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0838-push-dominoes/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0845-longest-mountain-in-array/) | Medium |
