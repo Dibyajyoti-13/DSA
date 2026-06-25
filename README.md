@@ -8,6 +8,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
+| [0066-plus-one](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0223-rectangle-area](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0223-rectangle-area/) | Medium |
 | [0670-maximum-swap](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0670-maximum-swap/) | Medium |
@@ -33,6 +34,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0046-permutations](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
+| [0066-plus-one](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
