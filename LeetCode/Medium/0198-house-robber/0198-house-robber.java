@@ -1,23 +1,17 @@
 class Solution {
     public int rob(int[] nums) {
-        if(nums.length == 0) return 0;
-        else if(nums.length == 1) return nums[0];
-        else if(nums.length == 2) return nums[0] > nums[1] ? nums[0] : nums[1];
-        else if(nums.length == 3) return nums[0] + nums[2] > nums[1] ? nums[0] + nums[2] : nums[1];
+        int n = nums.length;
 
-        int[] dp = new int[nums.length];
-        
-        dp[0] = nums[0]; 
-        dp[1] = nums[1]; 
-        dp[2] = nums[2] + nums[0];
-        
-        int ans = Math.max(dp[1], dp[2]);
+        if (n == 1) return nums[0];
 
-        for(int i = 3; i < nums.length; i++){
-            dp[i] = nums[i] + Math.max(dp[i - 2], dp[i - 3]);
-            ans = Math.max(ans, dp[i]);
+        int[] dp = new int[n];
+        dp[0] = nums[0];
+        dp[1] = Math.max(nums[0], nums[1]);
+
+        for (int i = 2; i < n; i++) {
+            dp[i] = Math.max(dp[i - 1], nums[i] + dp[i - 2]);
         }
 
-        return ans;
+        return dp[n - 1];
     }
 }
