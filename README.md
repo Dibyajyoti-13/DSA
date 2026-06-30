@@ -40,6 +40,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
@@ -126,6 +127,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0053-maximum-subarray](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
