@@ -222,4 +222,8 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
