@@ -68,6 +68,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [1472-design-browser-history](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [2293-min-max-game](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/2293-min-max-game/) | Easy |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -208,6 +209,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
