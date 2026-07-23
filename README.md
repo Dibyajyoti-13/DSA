@@ -64,6 +64,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [1200-minimum-absolute-difference](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/1200-minimum-absolute-difference/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1472-design-browser-history](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [2293-min-max-game](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/2293-min-max-game/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -201,6 +202,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0155-min-stack](https://github.com/Dibyajyoti-13/DSA/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0707-design-linked-list](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +219,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0203-remove-linked-list-elements](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,4 +244,13 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Dibyajyoti-13/DSA/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
