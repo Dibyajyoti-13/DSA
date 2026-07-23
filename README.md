@@ -21,6 +21,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Dibyajyoti-13/LeetCode/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [0754-reach-a-number](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0754-reach-a-number/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -253,4 +254,8 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
