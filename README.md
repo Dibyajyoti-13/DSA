@@ -198,6 +198,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Dibyajyoti-13/DSA/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -236,5 +237,6 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Dibyajyoti-13/DSA/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
