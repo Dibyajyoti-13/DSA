@@ -11,6 +11,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0066-plus-one](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Dibyajyoti-13/LeetCode/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0223-rectangle-area](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0223-rectangle-area/) | Medium |
 | [0258-add-digits](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0670-maximum-swap](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0670-maximum-swap/) | Medium |
@@ -43,6 +44,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0066-plus-one](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
@@ -245,6 +247,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Dibyajyoti-13/DSA/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [1472-design-browser-history](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
