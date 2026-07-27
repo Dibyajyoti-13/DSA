@@ -14,6 +14,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0223-rectangle-area](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0223-rectangle-area/) | Medium |
 | [0258-add-digits](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
+| [0319-bulb-switcher](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0319-bulb-switcher/) | Medium |
 | [0670-maximum-swap](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0670-maximum-swap/) | Medium |
 | [0754-reach-a-number](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0754-reach-a-number/) | Medium |
 | [0891-sum-of-subsequence-widths](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0891-sum-of-subsequence-widths/) | Hard |
@@ -270,4 +271,8 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
