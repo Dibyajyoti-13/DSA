@@ -25,10 +25,12 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0069-sqrtx](https://github.com/Dibyajyoti-13/LeetCode/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0754-reach-a-number](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0754-reach-a-number/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0670-maximum-swap](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0670-maximum-swap/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
@@ -54,6 +56,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0283-move-zeroes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
@@ -153,6 +156,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0198-house-robber](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0838-push-dominoes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0838-push-dominoes/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0845-longest-mountain-in-array/) | Medium |
@@ -226,6 +230,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
