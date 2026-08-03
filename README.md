@@ -174,6 +174,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +183,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0322-coin-change](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0695-max-area-of-island](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +312,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0222-count-complete-tree-nodes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,8 +322,10 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0222-count-complete-tree-nodes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0222-count-complete-tree-nodes/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
 <!---LeetCode Topics End-->
