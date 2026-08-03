@@ -27,6 +27,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0374-guess-number-higher-or-lower](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0754-reach-a-number](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0754-reach-a-number/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0643-maximum-average-subarray-i](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0695-max-area-of-island](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0849-maximize-distance-to-closest-person](https://github.com/Dibyajyoti-13/LeetCode/tree/main/LeetCode/Medium/0849-maximize-distance-to-closest-person/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
@@ -108,6 +110,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0283-move-zeroes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0838-push-dominoes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0838-push-dominoes/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0845-longest-mountain-in-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
@@ -120,6 +123,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0169-majority-element](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0891-sum-of-subsequence-widths](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0891-sum-of-subsequence-widths/) | Hard |
 | [0977-squares-of-a-sorted-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
@@ -150,6 +154,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0786-k-th-smallest-prime-fraction/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
