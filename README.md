@@ -106,6 +106,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0838-push-dominoes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0838-push-dominoes/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0845-longest-mountain-in-array/) | Medium |
@@ -117,6 +118,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0881-boats-to-save-people](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0891-sum-of-subsequence-widths](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0891-sum-of-subsequence-widths/) | Hard |
@@ -146,6 +148,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -225,6 +228,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Dibyajyoti-13/DSA/tree/main/0155-min-stack/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0707-design-linked-list](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
@@ -283,6 +287,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
 | [1472-design-browser-history](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
