@@ -1,0 +1,19 @@
+class Solution {
+public:
+    vector<int> asteroidCollision(vector<int>& asteroids) {
+        vector<int> stack;
+
+        for(int i : asteroids){
+            if(i > 0) stack.push_back(i);
+            else{
+                while(!stack.empty() && stack.back() > 0 && stack.back() < -i){
+                    stack.pop_back();
+                }
+
+                if(!stack.empty() && stack.back() == -i) stack.pop_back();
+                else if(stack.empty() || stack.back() < 0) stack.push_back(i);
+            }
+        }
+        return stack;
+    }
+};
