@@ -31,6 +31,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0410-split-array-largest-sum/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0670-maximum-swap](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0670-maximum-swap/) | Medium |
@@ -93,6 +94,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0049-group-anagrams](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
+| [0402-remove-k-digits](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0784-letter-case-permutation/) | Medium |
 | [0838-push-dominoes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0838-push-dominoes/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -292,6 +294,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Dibyajyoti-13/DSA/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [0402-remove-k-digits](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0735-asteroid-collision](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -312,6 +315,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0739-daily-temperatures](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
