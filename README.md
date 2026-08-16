@@ -35,6 +35,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0670-maximum-swap](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0670-maximum-swap/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0345-reverse-vowels-of-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0784-letter-case-permutation](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0784-letter-case-permutation/) | Medium |
 | [0838-push-dominoes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0838-push-dominoes/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0925-long-pressed-name](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0925-long-pressed-name/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -292,6 +294,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0234-palindrome-linked-list](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0735-asteroid-collision](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1472-design-browser-history](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -339,4 +342,8 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | ------- | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0783-minimum-distance-between-bst-nodes/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
