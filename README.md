@@ -73,6 +73,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0849-maximize-distance-to-closest-person](https://github.com/Dibyajyoti-13/LeetCode/tree/main/LeetCode/Medium/0849-maximize-distance-to-closest-person/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0891-sum-of-subsequence-widths](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0891-sum-of-subsequence-widths/) | Hard |
+| [0946-validate-stack-sequences](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1031-maximum-sum-of-two-non-overlapping-subarrays/) | Medium |
@@ -106,6 +107,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0054-spiral-matrix](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0258-add-digits/) | Easy |
 | [0735-asteroid-collision](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [2293-min-max-game](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/2293-min-max-game/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Two Pointers
@@ -298,6 +300,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0735-asteroid-collision](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0946-validate-stack-sequences/) | Medium |
 | [1472-design-browser-history](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/1472-design-browser-history/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
