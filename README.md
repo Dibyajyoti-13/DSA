@@ -94,6 +94,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | [0043-multiply-strings](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
+| [0125-valid-palindrome](https://github.com/Dibyajyoti-13/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0402-remove-k-digits/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0784-letter-case-permutation/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/Dibyajyoti-13/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
