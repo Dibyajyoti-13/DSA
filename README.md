@@ -42,6 +42,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/Dibyajyoti-13/DSA/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Dibyajyoti-13/DSA/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Dibyajyoti-13/DSA/tree/main/0125-valid-palindrome/) | Easy |
@@ -130,6 +132,7 @@ Collection of LeetCode & GeeksForGeeks questions to ace the coding interview! - 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Dibyajyoti-13/DSA/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Dibyajyoti-13/DSA/tree/main/LeetCode/Hard/0295-find-median-from-data-stream/) | Hard |
